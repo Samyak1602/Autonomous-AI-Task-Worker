@@ -1,0 +1,24 @@
+{
+  "invoice_id": "INV-CX-2025-089",
+  "company_name": "Company X",
+  "issue_date": "2025-03-22",
+  "due_date": "2025-04-22",
+  "currency": "USD",
+  "items": [
+    {
+      "description": "Production LLM Orchestration Platform Setup",
+      "quantity": 1,
+      "unit_price": 6000.00,
+      "total": 6000.00
+    },
+    {
+      "description": "24/7 Agent SLA Support & Monitoring",
+      "quantity": 1,
+      "unit_price": 1820.50,
+      "total": 1820.50
+    }
+  ],
+  "total_amount": 7820.50,
+  "status": "UNPAID",
+  "notes": "Payment terms: Net 30. Remit payment to Company X Treasury."
+}

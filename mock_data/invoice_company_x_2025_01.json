@@ -1,0 +1,18 @@
+{
+  "invoice_id": "INV-CX-2025-014",
+  "company_name": "Company X",
+  "issue_date": "2025-01-15",
+  "due_date": "2025-02-15",
+  "currency": "USD",
+  "items": [
+    {
+      "description": "Enterprise Security Audit & IAM Migration",
+      "quantity": 1,
+      "unit_price": 3450.00,
+      "total": 3450.00
+    }
+  ],
+  "total_amount": 3450.00,
+  "status": "PAID",
+  "notes": "Payment completed."
+}

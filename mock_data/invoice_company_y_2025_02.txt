@@ -1,0 +1,14 @@
+========================================
+           INVOICE #INV-CY-9941
+         COMPANY Y SOLUTIONS LLC
+========================================
+Bill To: Internal Operations
+Invoice Date: February 14, 2025
+Due Date: March 14, 2025
+
+Description:
+  - Frontend UI/UX Design System: $2,100.00
+
+TOTAL DUE: $2,100.00 USD
+Payment Instructions: Wire Transfer Account #8841-992
+========================================

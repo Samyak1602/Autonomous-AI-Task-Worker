@@ -1,0 +1,9 @@
+{
+  "invoice_id": "INV-CZ-2025-555",
+  "company_name": "Company Z Logistics",
+  "issue_date": "2025-03-01",
+  "due_date": "2025-03-31",
+  "currency": "USD",
+  "total_amount": 5400.00,
+  "status": "PAID"
+}
